@@ -39,4 +39,10 @@ public class Sorted {
         }
         return array;
     }
+
+
+    public static int[] insertionSort(int[] array){
+
+        return array;
+    }
 }
